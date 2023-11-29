@@ -20,7 +20,9 @@ I lost the picture for the complete version, will update if I find the final pic
 
 ![WhatsApp Image 2023-11-30 at 00 29 42_eae80a6c](https://github.com/Anmirazik/Aquaponic-System-MCU-Firmware/assets/113960675/d57b731c-68dc-4d40-baf9-f292b4773ddf)
 
+Our Node-red Prototype dashboard 
 
+<img width="955" alt="image" src="https://github.com/Anmirazik/Aquaponic-System-MCU-Firmware/assets/113960675/862a96ad-d4c9-40ca-ae53-978b17de76cc">
 
 ## What you need
 
