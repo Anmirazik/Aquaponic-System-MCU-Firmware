@@ -37,4 +37,6 @@ const char* mqttpass = "YOUR MQTT PASSWORD";
 
 ### How does it work ?
 
-1. The 
+1. Arduino acts as a slave and ESP 8266 acts as a master
+2. The Arduino (Slave) reads and writes the incoming and outgoing data from ESP 8266 (Master)
+3. The Arduino communicates with ESP 8266 through Serial Port 0
