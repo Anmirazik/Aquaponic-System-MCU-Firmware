@@ -6,6 +6,23 @@ The aquaponics system Arduino firmware consists of both source code for Arduino 
 
 ## What you need
 
-1. Arduino JSO Library https://github.com/bblanchon/ArduinoJson.git
+1. Arduino JSON Library https://github.com/bblanchon/ArduinoJson.git
 2. TDS Sensor Library https://github.com/DFRobot/GravityTDS.git
 3. MQTT Pubsub client library https://github.com/knolleary/pubsubclient.git
+
+### What you need to do 
+
+1. Change the credentials at the top of the ESP 8266 Firmware 
+
+~~~
+
+const char* ssid     = "YOUR SSID"; // ESP32 and ESP8266 uses 2.4GHZ wifi only
+const char* password = "YOUR PASSWORD"; 
+const char* mqttuser     = "YOUR MQTT USERNAME"; // ESP32 and ESP8266 uses 2.4GHZ wifi only
+const char* mqttpass = "YOUR MQTT PASSWORD"; 
+
+~~~
+
+2. Once you changed the credentials upload the code into the ESP 8266 board
+3. Please ensure that the ESP 8266 board manager is installed on Arduino IDE, otherwise it will not detect ESP 8266 default libraries such as ESP8266WIFI.h
+4. Select your ESP 8266 model and upload the firmware and you're good to go!
