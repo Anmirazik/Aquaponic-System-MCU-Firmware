@@ -4,6 +4,24 @@ Just a prototype project I did myself during my Internship which mainly used Ard
 
 The aquaponics system Arduino firmware consists of both source code for Arduino Nano board and ESP 8266 board which communicates through serial port
 
+## Project Demo & Picture 
+
+This is the Final Product and how it looks, btw I'm not the one in charge of the structural design , another person is in charge of the structural design  
+
+I was only involved with the design of the system functionality :) 
+
+Great project to be involved in, I'm grateful to be a part of the team 
+
+![WhatsApp Image 2023-11-30 at 00 29 42_d5e561bf](https://github.com/Anmirazik/Aquaponic-System-MCU-Firmware/assets/113960675/2e702fb3-cb3b-4902-8d7b-9184047a7f92)
+
+This is how the circuit within the control panel looks like, incomplete version btw 
+
+I lost the picture for the complete version, will update if I find the final picture!
+
+![WhatsApp Image 2023-11-30 at 00 29 42_eae80a6c](https://github.com/Anmirazik/Aquaponic-System-MCU-Firmware/assets/113960675/d57b731c-68dc-4d40-baf9-f292b4773ddf)
+
+
+
 ## What you need
 
 1. Arduino JSON Library https://github.com/bblanchon/ArduinoJson.git
@@ -40,3 +58,5 @@ const char* mqttpass = "YOUR MQTT PASSWORD";
 1. Arduino acts as a slave and ESP 8266 acts as a master
 2. The Arduino (Slave) reads and writes the incoming and outgoing data from ESP 8266 (Master)
 3. The Arduino communicates with ESP 8266 through Serial Port 0
+
+
