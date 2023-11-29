@@ -1,0 +1,12 @@
+{
+    "name": "Aquaponic-System",
+    "description": "Aquaponic System prototype based on node-red and arduino with the use of MQTT protocol for controlling and monitoring purposes",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "flows.json",
+            "credentialsFile": "flows_cred.json"
+        }
+    }
+}
