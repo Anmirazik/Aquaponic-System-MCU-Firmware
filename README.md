@@ -42,12 +42,10 @@ Our Node-red Prototype dashboard
 1. Change the credentials at the top of the ESP 8266 Firmware 
 
 ~~~
-
 const char* ssid     = "YOUR SSID"; // ESP32 and ESP8266 uses 2.4GHZ wifi only
 const char* password = "YOUR PASSWORD"; 
 const char* mqttuser     = "YOUR MQTT USERNAME"; // ESP32 and ESP8266 uses 2.4GHZ wifi only
 const char* mqttpass = "YOUR MQTT PASSWORD"; 
-
 ~~~
 
 2. Once you changed the credentials upload the code into the ESP 8266 board
