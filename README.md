@@ -1,4 +1,4 @@
-# Aquaponic-System-MCU-Firmware
+# Aquaponic System 
 
 This project consist of two branches , the main branches which is the firmware and the node-red branch 
 
