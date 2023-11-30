@@ -938,8 +938,18 @@
         "complete": "false",
         "statusVal": "",
         "statusType": "auto",
-        "x": 520,
+        "x": 540,
         "y": 760,
+        "wires": []
+    },
+    {
+        "id": "cb028e3594fb6e13",
+        "type": "comment",
+        "z": "d94c530613249929",
+        "name": "node-red features",
+        "info": "",
+        "x": 370,
+        "y": 700,
         "wires": []
     }
 ]
