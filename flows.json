@@ -938,8 +938,28 @@
         "complete": "false",
         "statusVal": "",
         "statusType": "auto",
-        "x": 520,
+        "x": 640,
         "y": 760,
+        "wires": []
+    },
+    {
+        "id": "cb028e3594fb6e13",
+        "type": "comment",
+        "z": "d94c530613249929",
+        "name": "node-red features",
+        "info": "",
+        "x": 370,
+        "y": 700,
+        "wires": []
+    },
+    {
+        "id": "fd3060b570efe79d",
+        "type": "comment",
+        "z": "d94c530613249929",
+        "name": "add timestamp features",
+        "info": "",
+        "x": 660,
+        "y": 700,
         "wires": []
     }
 ]
