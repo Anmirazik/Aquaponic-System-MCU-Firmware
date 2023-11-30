@@ -43,9 +43,9 @@ Our Node-red Prototype dashboard
 
 ~~~
 const char* ssid     = "YOUR SSID"; // ESP32 and ESP8266 uses 2.4GHZ wifi only
-const char* password = "YOUR PASSWORD"; 
-const char* mqttuser     = "YOUR MQTT USERNAME"; // ESP32 and ESP8266 uses 2.4GHZ wifi only
-const char* mqttpass = "YOUR MQTT PASSWORD"; 
+const char* password = "YOUR PASSWORD"; //Your WI-FI Password
+const char* mqttuser = "YOUR MQTT USERNAME"; // ESP32 and ESP8266 uses 2.4GHZ wifi only
+const char* mqttpass = "YOUR MQTT PASSWORD"; //Your MQTT Password
 ~~~
 
 2. Once you changed the credentials upload the code into the ESP 8266 board
