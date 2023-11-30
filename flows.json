@@ -938,7 +938,7 @@
         "complete": "false",
         "statusVal": "",
         "statusType": "auto",
-        "x": 540,
+        "x": 640,
         "y": 760,
         "wires": []
     },
@@ -958,7 +958,7 @@
         "z": "d94c530613249929",
         "name": "add timestamp features",
         "info": "",
-        "x": 600,
+        "x": 660,
         "y": 700,
         "wires": []
     }
