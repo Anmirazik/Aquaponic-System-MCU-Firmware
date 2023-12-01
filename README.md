@@ -29,7 +29,7 @@ I lost the picture for the complete version, will update if I find the final pic
 
 ### What can this dashboard do ?
 
-1. It can monitor the Total Dissolved solid , pH and Temperature of the water
+1. It can monitor the Water Level, Total Dissolved solids , pH and Temperature of the water
 2. It can control several components which are Plant Light, Heater, Auto Feeder and Water Pump
 
 <img width="955" alt="image" src="https://github.com/Anmirazik/Aquaponic-System-MCU-Firmware/assets/113960675/862a96ad-d4c9-40ca-ae53-978b17de76cc">
